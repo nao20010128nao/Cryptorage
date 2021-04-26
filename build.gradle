@@ -18,7 +18,7 @@ repositories {
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
     compile 'com.beust:klaxon:5.4'
-    compile 'com.google.guava:guava:30.0-jre'
+    compile 'com.google.guava:guava:30.1.1-jre'
     compile 'commons-codec:commons-codec:1.15'
     compile 'org.bitcoinj:bitcoinj-core:0.15.8'
 
